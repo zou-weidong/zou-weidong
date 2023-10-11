@@ -2,14 +2,15 @@ name: update readme
 
 on:
   schedule:
-  - cron: "6 3 * * *"
-
+  - cron: "12 3 * * *"
 jobs:
   update-readme:
     name: update readme
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@v0.2.5
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           
     
