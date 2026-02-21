@@ -6,9 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      6 hrs 26 mins         ██████████████████▓░░░░░░   75.15 %
-Markdown   1 hr 36 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-YAML       31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Other      2 hrs 9 mins          █████████████████████████   99.51 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
