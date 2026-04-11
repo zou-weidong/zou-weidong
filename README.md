@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    35 mins               ██████████████████████▒░░   89.30 %
-Groovy   4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
